@@ -1,0 +1,24 @@
+.bg-blue {
+    background-color: #507ABD;
+}
+.border-blue {
+    border-color: #507ABD;
+}
+.text-blue{
+    color: #507ABD;
+}
+.checkbox-round {
+    width: 15px;
+    height: 15px;
+    background-color: #ECF5FE;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid #507ABD;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+.checkbox-round:checked {
+    margin: 1;
+    background-color: #507ABD;
+}
